@@ -1,7 +1,18 @@
-Experienced Software Developer is passionate about crafting high-quality applications through robust code and a strong foundation in software processes. 
+### Hi there 👋, My name is Tim Son
+#### Software Developer
+![Software Developer](https://github.com/timsonau/timsonau/blob/main/sonny.gif)
 
-👨‍💻 In my journey as a Software Developer, I've honed my skills in web development, utilizing a variety of technologies to build responsive and user-friendly interfaces. My commitment to delivering seamless user experiences drives me to stay up-to-date with the latest industry trends and best practices.
+Currently a Software Developer for GEICO.
 
-🧪 Test-driven development is at the core of my development philosophy. I firmly believe in a solid test suite.
+Skills:  JAVA / C# / PYTHON / REACT
 
-🛠️ From requirements gathering to deployment, I embrace agile methodologies that enhance collaboration, streamline development, and foster innovation.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Large Language Models 
+- 📫 How to reach me: heeyoon.timson@gmail.com 
+
+
+![Banner](https://timsonau.github.io/next-portfolio/#Skills)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timsonau)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timsonau&show_icons=true) 
