@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Tim Son
+### Tim Son
 #### Software Developer
 ![Software Developer](https://github.com/timsonau/timsonau/blob/main/sonny.gif)
 
