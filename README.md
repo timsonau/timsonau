@@ -4,7 +4,7 @@
 
 Currently a Software Developer for GEICO.
 
-Skills:  JAVA / C# / PYTHON / REACT
+Skills:  JAVA / PYTHON / TypeScript
 
 - 🌱 I’m currently learning Large Language Models 
 - 📫 How to reach me: heeyoon.timson@gmail.com 
