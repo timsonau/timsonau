@@ -20,6 +20,8 @@
 
 Focused on distributed systems, event-driven architecture, and shipping maintainable software at scale.
 
+Previously a Software Engineer at **GEICO**, developing high-throughput services and internal platforms.
+
 ---
 
 ### 🧰 Technical Focus
@@ -60,11 +62,6 @@ LLM integrations, developer productivity tooling, and automation.
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=timsonau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tim's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timsonau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timsonau&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
