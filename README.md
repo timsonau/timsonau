@@ -71,7 +71,7 @@ LLM integrations, developer productivity tooling, and automation.
 
 ### 📫 Contact
 
-- Portfolio: [timsonau.github.io/next-portfolio](https://timsonau.github.io/next-portfolio)
+- Portfolio: [https://timsonau.github.io/portfolio](https://timsonau.github.io/next-portfolio)
 - Email: heeyoon.timson@gmail.com
 - GitHub: [@timsonau](https://github.com/timsonau)
 
