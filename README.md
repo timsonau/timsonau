@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+McMaster-Carr;Distributed+Systems+%7C+Event-Driven+Architecture;Building+scalable%2C+reliable+backend+platforms;Currently+exploring+LLM+tooling+%26+automation" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://timsonau.github.io/next-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-son)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heeyoon.timson@gmail.com)
 
 </div>
 
@@ -16,11 +13,10 @@
 
 ### 💼 Currently
 
-**Software Engineer @ McMaster-Carr**, building high-throughput services and internal platforms that power large-scale customer and agent experiences.
+building high-throughput services and internal platforms that power large-scale customer and agent experiences.
 
 Focused on distributed systems, event-driven architecture, and shipping maintainable software at scale.
 
-Previously a Software Engineer at **GEICO**, developing high-throughput services and internal platforms.
 
 ---
 
@@ -71,8 +67,6 @@ LLM integrations, developer productivity tooling, and automation.
 
 ### 📫 Contact
 
-- Portfolio: [https://timsonau.github.io/portfolio](https://timsonau.github.io/portfolio)
-- Email: heeyoon.timson@gmail.com
 - GitHub: [@timsonau](https://github.com/timsonau)
 
 <div align="center">
